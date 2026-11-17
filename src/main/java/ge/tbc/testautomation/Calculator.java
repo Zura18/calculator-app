@@ -5,6 +5,5 @@ public class Calculator {
         System.out.println("Calculator App");
         System.out.println("Addition: 5 + 3 = 8");
         System.out.println("Subtraction: 5 - 3 = 2");
-
     }
 }
